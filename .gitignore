@@ -1,0 +1,22 @@
+# Python bytecode
+*.pyc
+
+# Python cache
+__pycache__/
+
+# Sphinx documentation build directory
+_build/
+
+# Compiled documentation
+_sources/
+_static/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore any local virtual environment directories
+env/
+venv/
+
+
+
